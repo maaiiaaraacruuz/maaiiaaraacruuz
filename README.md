@@ -2,7 +2,7 @@
 
 💼 Trabalho como Developer no Grupo Boticário<br>
 💻 Amo me aventurar pelo Front-End<br>
-📗 Atualmente estudo a trilha FullStack do Grupo Desenvolve - Boticário<br>
+📗 Atualmente estudo a trilha FullStack da Labenu<br>
 🏆 Já participei de 3 Hackathons em 2021 (Hackathon do Ifood, de UX Design e outro do CIEE)<br>
 🥈 Já fiquei em segundo lugar em um Hackathon.
 
