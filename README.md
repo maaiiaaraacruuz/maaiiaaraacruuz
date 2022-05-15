@@ -1,6 +1,6 @@
 ### Oii eu sou a Maiara, Engenheira por formação e apaixonada por marketing e tecnologia!⭐
 
-💼 Trabalho como Analista de SEO<br>
+💼 Trabalho como Developer no Grupo Boticário<br>
 💻 Amo me aventurar pelo Front-End<br>
 📗 Atualmente estudo a trilha FullStack do Grupo Desenvolve - Boticário<br>
 🏆 Já participei de 3 Hackathons em 2021 (Hackathon do Ifood, de UX Design e outro do CIEE)<br>
